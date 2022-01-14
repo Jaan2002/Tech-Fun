@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width ,intial-scale=1.0">
+<link rel="stylesheet" href="csstutort.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=emboss|shadow-multiple">
+<title >TutorialsPage</title>
+</head>
+<main  >
+
+	<section  >
+	     <h2  class="font-effect-shadow-multiple">Tutorials</h2>
+<iframe width="450" height="300" src="https://www.youtube.com/embed/88PXJAA6szs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&emsp;&emsp;&emsp;
+<iframe width="450" height="300" src="https://www.youtube.com/embed/3_9znKVNe5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&emsp;&emsp;&emsp;
+<iframe width="450" height="300" src="https://www.youtube.com/embed/o1IaduQICO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br>              
+<iframe width="450" height="300" src="https://www.youtube.com/embed/_uQrJ0TkZlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&emsp;&emsp;&emsp; 
+<iframe width="450" height="300" src="https://www.youtube.com/embed/1v_4dL8l8pQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&emsp;&emsp;&emsp;          
+<iframe width="450" height="300" src="https://www.youtube.com/embed/xk4_1vDrzzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br>
+<iframe width="450" height="300" src="https://www.youtube.com/embed/vGjH9leVXaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&emsp;&emsp;&emsp;          
+<iframe width="450" height="300" src="https://www.youtube.com/embed/ztHopE5Wnpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>&emsp;&emsp;&emsp;          
+<iframe width="450" height="300" src="https://www.youtube.com/embed/qiSCMNBIP2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</section>
+</main>
+<footer>
+            <a href="#">FAQ</a>
+	<a href="#">Contack us</a>
+	<a href="#">Privacy Policy</a>
+	<a href="#">&copy; 2021 | Tech Fun</a>
+</footer>
+
+</html>
